@@ -4,7 +4,7 @@
 
 Are you the lone IT hero in your workspace, drowning in a sea of unorganized PC specs? Fear not, brave SysAdmin! This PowerShell script is your trusty sidekick, designed to gather all those pesky system details from Windows PCs effortlessly.
 
-## Why did we make this?
+## Why did I make this?
 
 Ever tried to take inventory of every machine in your domain and thought, “There has to be a better way!”? Well, here it is. This script was crafted with love (and a bit of frustration) to help IT administrators and support teams manage and monitor their fleet of computers without losing their sanity.
 
