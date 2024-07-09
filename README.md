@@ -54,8 +54,3 @@ Ever tried to take inventory of every machine in your domain and thought, “The
 - **Stay Organized:** Keep all your machine specs in one place.
 - **Improve Efficiency:** Quickly identify issues or inventory needs.
 - **Look Like a Pro:** Impress your colleagues with your automation skills.
-
-----
-
-Feel free to copy and paste this into your GitHub repository description!
-
