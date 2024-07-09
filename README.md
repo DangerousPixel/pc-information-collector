@@ -1,4 +1,4 @@
-# 🖥️ System Information Collector - The Geeky SysAdmin's Best Friend!
+# 🖥️ System Information Collector
 
 ## What is this?
 
